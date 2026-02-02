@@ -10,7 +10,8 @@ dashboards and business KPIs.
 ## Report Pages
 
 ### Category Performance & Returns
-( Screenshot will be added )
+![Category Performance](screenshots/category-performance.png)
+
 
 **Insight:** High-demand categories show increased return
 volumes, indicating opportunities to improve product quality
@@ -19,7 +20,7 @@ and customer expectations.
 ---
 
 ### Product Profitability Analysis
-( Screenshot will be added )
+![Product Profitability](screenshots/product-profitability.png)
 
 **Insight:** Profit trends are positive overall, but regional
 and product-level gaps against targets suggest areas for
@@ -28,7 +29,7 @@ margin optimization.
 ---
 
 ### Customer Segmentation Insights
-( Screenshot will be added )
+![Customer Segmentation](screenshots/customer-segmentation.png)
 
 **Insight:** Medium-value customers drive the largest revenue
 share, while high-value customers present strong retention
